@@ -116,10 +116,10 @@ hotfix/*          →  Critical production patches
 ---
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/stats.svg" width="49%" alt="Stats" />
   <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/languages.svg" width="49%" alt="Languages" />
-</div>
+</div> -->
 
 <!-- ─── Row 2: Streak ─── -->
 <div align="center">
@@ -150,9 +150,9 @@ hotfix/*          →  Critical production patches
        alt="Contribution Calendar" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/achievements.svg" width="70%" alt="Achievements" />
-</div>
+</div> -->
 
 ---
 
