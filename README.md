@@ -162,11 +162,6 @@ RLS         →  Row-level security
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</div>
-
-<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/output/github-snake-dark.svg" />
