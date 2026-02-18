@@ -101,6 +101,9 @@ RLS         →  Row-level security
 </div>
 
 <br/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/contributions.svg" width="90%" alt="Contributions" />
+</div>
 
 <table align="center" width="100%" border="0">
   <tr>
