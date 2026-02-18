@@ -121,8 +121,33 @@ hotfix/*          →  Critical production patches
   <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/languages.svg" width="49%" alt="Languages" />
 </div>
 
+<!-- ─── Row 2: Streak ─── -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/calendar.svg" width="70%" alt="Contribution Calendar" />
+
+  ### 🔥 Coding Streak & Habits
+
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/streak.svg"
+       width="90%"
+       alt="Streak & Habits" />
+</div>
+
+<br/>
+
+<!-- ─── Divider ─── -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<br/>
+
+<!-- ─── Row 3: Contribution Calendar ─── -->
+<div align="center">
+
+  ### 📅 Contribution Calendar
+
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/calendar.svg"
+       width="90%"
+       alt="Contribution Calendar" />
 </div>
 
 <div align="center">
