@@ -59,14 +59,16 @@ jobs:
           config_timezone: Africa/Cairo
           config_display: large
 
-      # ── Card 4: Contribution Calendar (taller) ────────────────────────
-      - name: Contribution Calendar
+# ── Card 4: Activity Feed ──────────────────────────────────────────
+      - name: Activity
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics/calendar.svg
+          filename: metrics/activity.svg
           base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_activity_filter: push, pr, issue, release
           config_timezone: Africa/Cairo
           config_display: large
