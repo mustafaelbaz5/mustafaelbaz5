@@ -16,20 +16,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 41.4mb of code in 7762 edited files across 1351 commits</small>
+                <small>estimation from 41.4mb of code in 7767 edited files across 1353 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="133.36201172059572" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="133.36201172059572" y="0" width="109.4735807412767" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="242.83559246187247" y="0" width="106.4870743850383" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="349.32266684691075" y="0" width="55.43222568712725" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="404.754892534038" y="0" width="34.4563037987633" height="8" fill="#336790"/>
-                    <rect mask="url(#languages-bar)" x="439.2111963328013" y="0" width="11.282538698433092" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="450.4937350312344" y="0" width="7.559663399813091" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.0533984310475" y="0" width="1.9466015689525273" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="133.32906483320187" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="133.32906483320187" y="0" width="109.44653545536092" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="242.77560028856277" y="0" width="106.57440922951348" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="349.35000951807626" y="0" width="55.418531237904844" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="404.7685407559811" y="0" width="34.447791419963515" height="8" fill="#336790"/>
+                    <rect mask="url(#languages-bar)" x="439.2163321759446" y="0" width="11.279751363964914" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="450.49608353990953" y="0" width="7.557795796171275" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.0538793360808" y="0" width="1.9461206639191857" height="8" fill="#f34b7d"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,7 +42,7 @@
                             </div>
                             <small>
                                 <div>167k lines</div>
-                                <div>28.99%</div>
+                                <div>28.98%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -54,7 +54,7 @@
                             </div>
                             <small>
                                 <div>140k lines</div>
-                                <div>23.15%</div>
+                                <div>23.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -92,7 +92,7 @@
                             </div>
                             <small>
                                 <div>115k lines</div>
-                                <div>23.8%</div>
+                                <div>23.79%</div>
                             </small>
                         </div>
                         <div class="field language details">
