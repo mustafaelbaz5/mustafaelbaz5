@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://mustafa-portfolio-eight.vercel.app/"><img alt="Visit my portfolio" src="https://img.shields.io/badge/PORTFOLIO-14253C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=5AD9F5" /></a>
-  <a href="https://www.linkedin.com/in/mustafa-elbaz-725a6631a/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-14253C?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5AD9F5" /></a>
-  <a href="mailto:m9stafa05@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/EMAIL-14253C?style=for-the-badge&amp;logo=gmail&amp;logoColor=B8F16D" /></a>
+  <a href="https://mustafa-portfolio-eight.vercel.app/"><img alt="Portfolio" src="./assets/badges/portfolio.svg" /></a>
+  <a href="https://www.linkedin.com/in/mustafa-elbaz-725a6631a/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" /></a>
+  <a href="mailto:m9stafa05@gmail.com"><img alt="Email" src="./assets/badges/email.svg" /></a>
 </p>
 
 <p align="center">
@@ -96,10 +96,10 @@ These are **separate tools operated in sequence**, with review and correction be
 ### Application development
 
 <p>
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-237952?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" />
-  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-B55D00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" />
+  <img alt="Flutter" src="./assets/badges/flutter.svg" />
+  <img alt="Dart" src="./assets/badges/dart.svg" />
+  <img alt="Supabase" src="./assets/badges/supabase.svg" />
+  <img alt="Firebase" src="./assets/badges/firebase.svg" />
 </p>
 
 **BLoC / Cubit** · State management · Dependency injection · Clean architecture principles · Authentication · Local storage · Notifications
@@ -107,11 +107,11 @@ These are **separate tools operated in sequence**, with review and correction be
 ### Data, scripting & automation
 
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-275C83?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-335B77?style=for-the-badge" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-493578?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
-  <img alt="openpyxl" src="https://img.shields.io/badge/openpyxl-276047?style=for-the-badge" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-285C80?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
+  <img alt="Python" src="./assets/badges/python.svg" />
+  <img alt="SQL" src="./assets/badges/sql.svg" />
+  <img alt="pandas" src="./assets/badges/pandas.svg" />
+  <img alt="openpyxl" src="./assets/badges/openpyxl.svg" />
+  <img alt="SQLite" src="./assets/badges/sqlite.svg" />
 </p>
 
 **Data cleaning** · Data mining · Data processing · Validation · Data quality · Transformation · Record matching · Arabic text normalization · Task automation · RPA · Report generation
@@ -119,11 +119,11 @@ These are **separate tools operated in sequence**, with review and correction be
 ### GIS & supporting tools
 
 <p>
-  <img alt="ArcGIS Pro" src="https://img.shields.io/badge/ArcGIS%20Pro-245D62?style=for-the-badge&amp;logo=arcgis&amp;logoColor=white" />
-  <img alt="GIS" src="https://img.shields.io/badge/GIS-38634B?style=for-the-badge" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-246947?style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-B54529?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-265DB3?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+  <img alt="ArcGIS Pro" src="./assets/badges/arcgis-pro.svg" />
+  <img alt="GIS" src="./assets/badges/gis.svg" />
+  <img alt="Excel" src="./assets/badges/excel.svg" />
+  <img alt="Git" src="./assets/badges/git.svg" />
+  <img alt="GitHub Actions" src="./assets/badges/github-actions.svg" />
 </p>
 
 **KML ↔ Excel workflows** · Git & GitHub · GitHub Actions · Fastlane · Firebase App Distribution · Development/production environments
