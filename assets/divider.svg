@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="14" viewBox="0 0 1120 14" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Section divider</title>
+<desc id="desc">A subtle moving cyan accent.</desc>
+<style>
+text { font-family: Segoe UI, Inter, Arial, sans-serif; }
+.mono { font-family: Consolas, Monaco, monospace; }
+.shimmer {animation: shimmer 10s ease-in-out infinite;} @keyframes shimmer {0%,100% {transform:translateX(0)} 50% {transform:translateX(880px)}}
+@media (prefers-reduced-motion: reduce) {
+  .animated { animation: none !important; }
+  .motion-only { display: none !important; }
+  .still-only { display: inline !important; }
+}
+</style>
+<defs><linearGradient id="d"><stop stop-color="#5AD9F5" stop-opacity="0"/><stop offset=".5" stop-color="#5AD9F5"/><stop offset="1" stop-color="#C6ADFF" stop-opacity="0"/></linearGradient></defs>
+<path d="M0 7H1120" stroke="#25354B" stroke-opacity=".5"/>
+<rect x="0" y="6" width="240" height="2" fill="url(#d)" class="animated shimmer"/>
+</svg>

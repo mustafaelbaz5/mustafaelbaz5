@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="420" viewBox="0 0 1120 420" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Mustafa Elbaz — Software Developer</title>
+<desc id="desc">Building software-driven solutions across applications, data, automation and GIS. Understand, plan, build, review, improve and deliver.</desc>
+<style>
+text { font-family: Segoe UI, Inter, Arial, sans-serif; }
+.mono { font-family: Consolas, Monaco, monospace; }
+.orbit { transform-origin: 903px 214px; animation: orbit 24s linear infinite; }
+.orbit-reverse { transform-origin: 903px 214px; animation: orbit 45s linear infinite reverse; }
+.float { animation: float 7s ease-in-out infinite; }
+.pulse { transform-origin: 52px 48px; animation: pulse 3s ease-in-out infinite; }
+.circuit { animation: dash 9s linear infinite; }
+.blink { animation: blink 1.2s steps(1) infinite; }
+@keyframes orbit { to { transform: rotate(360deg); } }
+@keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-7px); } }
+@keyframes pulse { 0%,100% { opacity: .2; transform: scale(.8); } 50% { opacity: .8; transform: scale(1.3); } }
+@keyframes dash { to { stroke-dashoffset: -535; } }
+@keyframes blink { 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .animated { animation: none !important; }
+  .motion-only { display: none !important; }
+  .still-only { display: inline !important; }
+}
+</style>
+
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1120" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1220"/><stop offset="1" stop-color="#132440"/></linearGradient>
+  <linearGradient id="accent"><stop stop-color="#5AD9F5"/><stop offset=".55" stop-color="#C6ADFF"/><stop offset="1" stop-color="#B8F16D"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#5AD9F5" stop-opacity=".13"/><stop offset="1" stop-color="#5AD9F5" stop-opacity="0"/></radialGradient>
+  <clipPath id="rounded"><rect width="1120" height="420" rx="24"/></clipPath>
+</defs>
+<g clip-path="url(#rounded)">
+<rect width="1120" height="420" fill="url(#background)"/>
+<path d="M0 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M56 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M112 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M168 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M224 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M280 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M336 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M392 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M448 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M504 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M560 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M616 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M672 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M728 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M784 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M840 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M896 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M952 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M1008 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M1064 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M1120 0V420" stroke="#25354B" stroke-opacity=".24"/><path d="M0 0H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 56H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 112H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 168H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 224H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 280H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 336H1120" stroke="#25354B" stroke-opacity=".24"/><path d="M0 392H1120" stroke="#25354B" stroke-opacity=".24"/>
+<circle cx="908" cy="205" r="290" fill="url(#halo)"/>
+<circle cx="903" cy="214" r="181" stroke="#5AD9F5" stroke-opacity=".18"/>
+<circle cx="903" cy="214" r="181" stroke="#5AD9F5" stroke-width="2" stroke-dasharray="9 1128" class="animated orbit"/>
+<circle cx="903" cy="214" r="150" stroke="#C6ADFF" stroke-opacity=".3" stroke-dasharray="3 10" class="animated orbit-reverse"/>
+<path d="M590 363H665L697 331H1058" stroke="#5AD9F5" stroke-opacity=".3"/>
+<path d="M590 363H665L697 331H1058" stroke="#5AD9F5" stroke-width="2" stroke-dasharray="25 510" class="animated circuit"/>
+<circle cx="52" cy="48" r="5" fill="#B8F16D"/>
+<circle cx="52" cy="48" r="10" stroke="#B8F16D" stroke-opacity=".5" class="animated pulse"/>
+<text x="72" y="53" font-size="13" fill="#B8F16D" font-weight="600" class="mono" letter-spacing="2.5">SOFTWARE DEVELOPER</text>
+<text x="50" y="140" font-size="66" fill="#F1F6FD" font-weight="750" letter-spacing="-2">MUSTAFA</text>
+<text x="47" y="214" font-size="82" fill="#5AD9F5" font-weight="750" letter-spacing="-3">ELBAZ.</text>
+<text x="52" y="266" font-size="25" fill="#F1F6FD" font-weight="600" >Building software-driven solutions</text>
+<text x="52" y="296" font-size="17" fill="#A4B5CC" font-weight="400" >Across applications, data &amp; real-world workflows.</text>
+<rect x="52" y="340" width="120" height="31" rx="15.5" fill="#5AD9F5" fill-opacity=".08" stroke="#5AD9F5" stroke-opacity=".35"/><text x="112.0" y="360" font-size="11" fill="#5AD9F5" font-weight="600" text-anchor="middle" letter-spacing="1">APPLICATIONS</text>
+<rect x="184" y="340" width="82" height="31" rx="15.5" fill="#B8F16D" fill-opacity=".08" stroke="#B8F16D" stroke-opacity=".35"/><text x="225.0" y="360" font-size="11" fill="#B8F16D" font-weight="600" text-anchor="middle" letter-spacing="1">DATA</text>
+<rect x="278" y="340" width="121" height="31" rx="15.5" fill="#C6ADFF" fill-opacity=".08" stroke="#C6ADFF" stroke-opacity=".35"/><text x="338.5" y="360" font-size="11" fill="#C6ADFF" font-weight="600" text-anchor="middle" letter-spacing="1">AUTOMATION</text>
+<rect x="411" y="340" width="70" height="31" rx="15.5" fill="#FFBD87" fill-opacity=".08" stroke="#FFBD87" stroke-opacity=".35"/><text x="446.0" y="360" font-size="11" fill="#FFBD87" font-weight="600" text-anchor="middle" letter-spacing="1">GIS</text>
+<g class="animated float">
+<rect x="676" y="76" width="384" height="250" rx="16" fill="#09101C" stroke="#38516B"/>
+<path d="M676 120H1060" stroke="#25354B"/>
+<circle cx="699" cy="98" r="4" fill="#FF8D87"/><circle cx="714" cy="98" r="4" fill="#FFBD87"/><circle cx="729" cy="98" r="4" fill="#B8F16D"/>
+<text x="762" y="103" font-size="12" fill="#A4B5CC" font-weight="400" class="mono">mustafa / workspace</text>
+<text x="700" y="153" font-size="14" fill="#5AD9F5" font-weight="600" class="mono">$ approach</text>
+<text x="700" y="183" font-size="15" fill="#F1F6FD" font-weight="400" class="mono">understand → plan → build</text>
+<text x="700" y="214" font-size="15" fill="#F1F6FD" font-weight="400" class="mono">review → improve → deliver</text>
+<path d="M700 235H1035" stroke="#25354B"/>
+<text x="700" y="266" font-size="14" fill="#B8F16D" font-weight="400" class="mono">&gt; software + data + context</text>
+<text x="700" y="298" font-size="12" fill="#A4B5CC" font-weight="400" class="mono">Always learning. Always iterating.</text>
+<rect x="996" y="255" width="7" height="15" fill="#B8F16D" class="animated blink"/>
+</g>
+<path d="M0 418H1120" stroke="url(#accent)" stroke-width="4"/>
+</g>
+</svg>

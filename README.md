@@ -1,174 +1,189 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0D47A1,100:00D9FF&height=180&section=header&text=Mustafa%20Elbaz&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Engineer&descAlignY=58&descSize=17" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=580&lines=Flutter+Developer+%F0%9F%9A%80;Firebase+%26+Supabase+Expert+%F0%9F%94%A5;Clean+Architecture+Enthusiast+%E2%9C%A8;Pixel-Perfect+UI+Obsessive+%F0%9F%8E%AF" />
-</div>
-
+<!-- Profile README for mustafaelbaz5. Custom animated SVGs are stored in assets/. -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustafaelbaz5&color=00D9FF&style=flat-square&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/mustafaelbaz5?style=flat-square&color=00D9FF&label=Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/mustafaelbaz5?style=flat-square&color=FFD700&label=Stars" />
+  <img src="./assets/hero.svg" width="100%" alt="Mustafa Elbaz — Software Developer. Applications, data, automation and GIS." />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-Passionate **Flutter Developer** specializing in cross-platform mobile apps with **Firebase** & **Supabase** backends. I care deeply about clean architecture, smooth animations, and well-versioned code.
-
-- 🔭 Building production-ready Flutter mobile apps
-- 🔥 Firebase & Supabase backend integration
-- 🗂️ GitFlow + Conventional Commits + Semantic Versioning
-- 💼 Open to Flutter collaborations
-- 📫 **m9stafa05@gmail.com**
-
 <p align="center">
-  <a href="https://mustafa-portfolio-eight.vercel.app/" target="_blank"><strong>🌍 Visit My Portfolio »</strong></a>
+  <img src="./assets/focus.svg" width="100%" alt="Building Flutter apps, processing data, creating Python and SQL tools, and working with GIS." />
 </p>
 
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <a href="https://mustafa-portfolio-eight.vercel.app/"><img alt="Visit my portfolio" src="https://img.shields.io/badge/PORTFOLIO-14253C?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=5AD9F5" /></a>
+  <a href="https://www.linkedin.com/in/mustafa-elbaz-725a6631a/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LINKEDIN-14253C?style=for-the-badge&amp;logo=linkedin&amp;logoColor=5AD9F5" /></a>
+  <a href="mailto:m9stafa05@gmail.com"><img alt="Send me an email" src="https://img.shields.io/badge/EMAIL-14253C?style=for-the-badge&amp;logo=gmail&amp;logoColor=B8F16D" /></a>
 </p>
 
----
+<p align="center">
+  <a href="#about-me">About</a> &nbsp; / &nbsp;
+  <a href="#current-work">Current work</a> &nbsp; / &nbsp;
+  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#technical-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#github-activity">Activity</a>
+</p>
 
-## ⚙️ Services & Workflow
+## About me
 
-<table align="center" width="90%" border="0">
+I'm **Mustafa Elbaz**, a **Software Developer** with a foundation in **Flutter and Dart**, building practical solutions across **mobile applications, data processing, automation, and GIS**.
+
+I start with the problem: understand the workflow, plan a useful solution, build it step by step, and improve it through real use. My work includes both **developing the software** and **preparing the data and tools that make it useful**.
+
+> **My focus:** useful applications · reliable data · less repetitive work · better technical delivery.
+
+| Applications | Data & automation | GIS & delivery |
+| :--- | :--- | :--- |
+| Features, business logic, state management, backend integration | Cleaning, mining, validation, record matching, Python tools and SQL | ArcGIS Pro, KML/Excel workflows, review, reporting and handoff |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Current work
+
+**Software Developer · Civil · Full-time**  
+**June 2026 — Present**
+
+I take responsibility for the **technical work across applications, tools, data workflows, GIS, and final delivery** on an agricultural holdings digitization project delivered through Civil to **[Digital Smart Tree (DST)](https://www.linkedin.com/company/dstegypt/)**. The national initiative involves the **Future of Egypt for Sustainable Development** and the **Ministry of Agriculture and Land Reclamation**.
+
+- **Application development:** built and continue to develop **Hiyaza**, including its features and business logic, with a supporting web dashboard.
+- **Data processing & quality:** work with substantial volumes of holdings and parcel data, performing **cleaning, mining, normalization, validation, matching, and correction**.
+- **Tools & automation:** develop **Python scripts, SQL queries, and internal tools**, and use **RPA** to reduce repetitive work and support the operational workflow.
+- **GIS & delivery:** work with **ArcGIS Pro** and **KML/Excel** outputs, review unresolved records, and prepare corrected datasets, statistics, and **Word delivery reports**.
+- **Continuous improvement:** troubleshoot issues and refine the tools and processing steps as new requirements and real-world problems appear.
+
+<p align="center">
+  <img src="./assets/workflow.svg" width="100%" alt="Hiyaza workflow: prepare source data, use the application, extract GIS data, validate and correct records, then generate reports and deliver." />
+</p>
+
+These are **separate tools operated in sequence**, with review and correction between stages. I develop, maintain, and use them as part of the day-to-day work.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## Selected projects
+
+<table>
   <tr>
     <td width="50%" valign="top">
-
-**🔥 Firebase**
-```
-Auth        →  Email, Google, Phone
-Firestore   →  Real-time NoSQL DB
-Storage     →  File & media hosting
-Functions   →  Serverless logic
-FCM         →  Push notifications
-Crashlytics →  Crash reporting
-```
-
-</td>
-    <td width="50%" valign="top">
-
-**🟢 Supabase**
-```
-Auth        →  JWT + RLS policies
-PostgreSQL  →  Relational DB
-Storage     →  Secure file buckets
-Realtime    →  Live data streams
-Edge Fn     →  Deno serverless
-RLS         →  Row-level security
-```
-
-</td>
-  </tr>
-</table>
-
-<div align="center">
-
-**🗂️ Git Branching Strategy**
-
-`main` → `develop` → `feature/*` · `fix/*` · `release/*` · `hotfix/*`
-
-*Conventional Commits · Semantic Versioning*
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/contributions.svg" width="90%" alt="Contributions" />
-</div>
-
-<table align="center" width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/stats.svg" width="100%" alt="Stats" />
+      <h3>01 / Hiyaza Finder</h3>
+      <p>A Flutter application for working with agricultural holdings and parcel records. Search, review and edit data, with local data handling and Supabase integration.</p>
+      <p><strong>Flutter · Dart · BLoC · Supabase</strong></p>
+      <a href="https://github.com/mustafaelbaz5/hiyaza-finder">Explore the app ↗</a> &nbsp; · &nbsp; <a href="https://github.com/mustafaelbaz5/hiyaza-app-dashboard">Supporting dashboard ↗</a>
     </td>
-    <td width="50%" align="center">
-      <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/languages.svg" width="100%" alt="Languages" />
+    <td width="50%" valign="top">
+      <h3>02 / Data Preparation & Validation</h3>
+      <p>Tools for merging and cleaning source Excel files, normalizing Arabic names, matching records, and surfacing uncertain cases for manual review. Additional correction tooling uses local SQLite lookups.</p>
+      <p><strong>Python · pandas · openpyxl · SQLite</strong></p>
+      <a href="https://github.com/mustafaelbaz5/hiyaza-app-py-merge-script">Explore the preparation tool ↗</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>03 / Hiyaza Report Generator</h3>
+      <p>A desktop tool that analyzes finalized Excel datasets, calculates delivery statistics, and fills a formatted Word template for agricultural association reports.</p>
+      <p><strong>Python · openpyxl · python-docx</strong></p>
+      <a href="https://github.com/mustafaelbaz5/hiyaza_report_gen">Explore reporting ↗</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>04 / IM Legends</h3>
+      <p>A competitive match-tracking app with player statistics, match history, leaderboards, authentication and notifications. Includes development/production flavors and automated tester distribution.</p>
+      <p><strong>Flutter · Supabase · Firebase · Fastlane</strong></p>
+      <a href="https://github.com/mustafaelbaz5/clash-arena">Explore the project ↗</a>
     </td>
   </tr>
 </table>
 
-<br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/streak.svg" width="90%" alt="Streak & Habits" />
-</div>
+## Technical toolkit
 
-<br/>
+### Application development
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/activity.svg" width="90%" alt="Recent Activity" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mustafaelbaz5&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="90%" alt="GitHub Streak" />
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/mustafa-elbaz-725a6631a">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:m9stafa05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://mustafa-portfolio-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=%2300D9FF" />
-  </a>
+<p>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-237952?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-B55D00?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" />
 </p>
 
-<div align="center">
+**BLoC / Cubit** · State management · Dependency injection · Clean architecture principles · Authentication · Local storage · Notifications
 
-> 💬 Have a Flutter project in mind? Let's build something great — reach out anytime!
+### Data, scripting & automation
 
-</div>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-275C83?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-335B77?style=for-the-badge" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-493578?style=for-the-badge&amp;logo=pandas&amp;logoColor=white" />
+  <img alt="openpyxl" src="https://img.shields.io/badge/openpyxl-276047?style=for-the-badge" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-285C80?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" />
+</p>
 
----
+**Data cleaning** · Data mining · Data processing · Validation · Data quality · Transformation · Record matching · Arabic text normalization · Task automation · RPA · Report generation
 
+### GIS & supporting tools
+
+<p>
+  <img alt="ArcGIS Pro" src="https://img.shields.io/badge/ArcGIS%20Pro-245D62?style=for-the-badge&amp;logo=arcgis&amp;logoColor=white" />
+  <img alt="GIS" src="https://img.shields.io/badge/GIS-38634B?style=for-the-badge" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-246947?style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-B54529?style=for-the-badge&amp;logo=git&amp;logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-265DB3?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" />
+</p>
+
+**KML ↔ Excel workflows** · Git & GitHub · GitHub Actions · Fastlane · Firebase App Distribution · Development/production environments
+
+**Development workflow:** GitFlow-style branches · Conventional Commits · Semantic Versioning  
+**Design & development tools:** Figma · Android Studio
+
+<details>
+<summary><strong>Supporting web work</strong></summary>
+
+I've also used **React and TypeScript**, with AI assistance, to build a supporting dashboard for data upload, review, publishing and application controls. My main focus remains **application development, data tools, automation, and GIS workflows**.
+
+</details>
+
+## How I build & keep learning
+
+- **Problem first:** analyze the work, sketch an initial flow, then iterate on the solution.
+- **AI-assisted workflow:** choose tools for the task — research, planning, analysis, automation or implementation. I use **OpenAI Codex** and **Claude Code** as coding assistants while reviewing and refining the output.
+- **Aviation direction:** studying **Aviation Information Systems**, with a long-term interest in applying software to aviation problems.
+- **Hands-on growth:** continuously improve my understanding through projects, debugging and day-to-day technical responsibilities.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## GitHub activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/contributions.svg" width="100%" alt="GitHub contribution activity, generated by the repository's existing metrics workflow." />
+</p>
+
+<details>
+<summary><strong>Explore repository statistics, languages & recent activity</strong></summary>
+
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/stats.svg" width="100%" alt="GitHub statistics" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/languages.svg" width="100%" alt="Languages used in repositories; repository activity does not represent a proficiency rating." /></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/streak.svg" width="100%" alt="Coding activity and habits" />
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/main/metrics/activity.svg" width="100%" alt="Recent GitHub activity" />
+</p>
+
+</details>
+
+<p align="center"><strong>The contribution trail</strong></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/mustafaelbaz5/mustafaelbaz5/output/github-snake.svg" width="100%" alt="Animated snake following my GitHub contribution graph." />
 </picture>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0D47A1,100:0D1117&height=110&section=footer" />
-</div>
+## Let's connect
+
+Interested in **useful applications, data tools, automation, GIS, or aviation-related software**? I'd be happy to connect.
+
+**[Portfolio](https://mustafa-portfolio-eight.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/mustafa-elbaz-725a6631a/)** · **[m9stafa05@gmail.com](mailto:m9stafa05@gmail.com)**
+
+<p align="center">
+  <img src="./assets/footer.svg" width="100%" alt="Understand the problem. Build the solution. Keep improving." />
+</p>
