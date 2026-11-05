@@ -1,24 +1,24 @@
 <!-- Profile README for mustafaelbaz5. Custom animated SVGs are stored in assets/. -->
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Mustafa Elbaz — Software Developer. Applications, data, automation and GIS." />
+  <img src="./assets/hero.svg" width="1120" height="420" alt="Mustafa Elbaz — Software Developer. Applications, data, automation and GIS." />
 </p>
 
 <p align="center">
-  <img src="./assets/focus.svg" width="100%" alt="Building Flutter apps, processing data, creating Python and SQL tools, and working with GIS." />
+  <img src="./assets/focus.svg" width="1120" height="88" alt="Building Flutter apps, processing data, creating Python and SQL tools, and working with GIS." />
 </p>
 
 <p align="center">
-  <a href="https://mustafa-portfolio-eight.vercel.app/"><img alt="Portfolio" src="./assets/badges/portfolio.svg" /></a>
-  <a href="https://www.linkedin.com/in/mustafa-elbaz-725a6631a/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" /></a>
-  <a href="mailto:m9stafa05@gmail.com"><img alt="Email" src="./assets/badges/email.svg" /></a>
+  <a href="https://mustafa-portfolio-eight.vercel.app/"><img alt="Portfolio" src="./assets/badges/portfolio.svg" width="125" height="34" /></a>
+  <a href="https://www.linkedin.com/in/mustafa-elbaz-725a6631a/"><img alt="LinkedIn" src="./assets/badges/linkedin.svg" width="117" height="34" /></a>
+  <a href="mailto:m9stafa05@gmail.com"><img alt="Email" src="./assets/badges/email.svg" width="94" height="34" /></a>
 </p>
 
 <p align="center">
-  <a href="#about-me">About</a> &nbsp; / &nbsp;
-  <a href="#current-work">Current work</a> &nbsp; / &nbsp;
-  <a href="#selected-projects">Projects</a> &nbsp; / &nbsp;
-  <a href="#technical-toolkit">Toolkit</a> &nbsp; / &nbsp;
-  <a href="#github-activity">Activity</a>
+  <a href="#user-content-about-me">About</a> &nbsp; / &nbsp;
+  <a href="#user-content-current-work">Current work</a> &nbsp; / &nbsp;
+  <a href="#user-content-selected-projects">Projects</a> &nbsp; / &nbsp;
+  <a href="#user-content-technical-toolkit">Toolkit</a> &nbsp; / &nbsp;
+  <a href="#user-content-github-activity">Activity</a>
 </p>
 
 ## About me
@@ -33,7 +33,7 @@ I start with the problem: understand the workflow, plan a useful solution, build
 | :--- | :--- | :--- |
 | Features, business logic, state management, backend integration | Cleaning, mining, validation, record matching, Python tools and SQL | ArcGIS Pro, KML/Excel workflows, review, reporting and handoff |
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="1120" height="14" alt="" />
 
 ## Current work
 
@@ -49,12 +49,12 @@ I take responsibility for the **technical work across applications, tools, data 
 - **Continuous improvement:** troubleshoot issues and refine the tools and processing steps as new requirements and real-world problems appear.
 
 <p align="center">
-  <img src="./assets/workflow.svg" width="100%" alt="Hiyaza workflow: prepare source data, use the application, extract GIS data, validate and correct records, then generate reports and deliver." />
+  <img src="./assets/workflow.svg" width="1120" height="292" alt="Hiyaza workflow: prepare source data, use the application, extract GIS data, validate and correct records, then generate reports and deliver." />
 </p>
 
 These are **separate tools operated in sequence**, with review and correction between stages. I develop, maintain, and use them as part of the day-to-day work.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="1120" height="14" alt="" />
 
 ## Selected projects
 
@@ -89,17 +89,17 @@ These are **separate tools operated in sequence**, with review and correction be
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="1120" height="14" alt="" />
 
 ## Technical toolkit
 
 ### Application development
 
 <p>
-  <img alt="Flutter" src="./assets/badges/flutter.svg" />
-  <img alt="Dart" src="./assets/badges/dart.svg" />
-  <img alt="Supabase" src="./assets/badges/supabase.svg" />
-  <img alt="Firebase" src="./assets/badges/firebase.svg" />
+  <img alt="Flutter" src="./assets/badges/flutter.svg" width="110" height="34" />
+  <img alt="Dart" src="./assets/badges/dart.svg" width="86" height="34" />
+  <img alt="Supabase" src="./assets/badges/supabase.svg" width="117" height="34" />
+  <img alt="Firebase" src="./assets/badges/firebase.svg" width="117" height="34" />
 </p>
 
 **BLoC / Cubit** · State management · Dependency injection · Clean architecture principles · Authentication · Local storage · Notifications
@@ -107,11 +107,11 @@ These are **separate tools operated in sequence**, with review and correction be
 ### Data, scripting & automation
 
 <p>
-  <img alt="Python" src="./assets/badges/python.svg" />
-  <img alt="SQL" src="./assets/badges/sql.svg" />
-  <img alt="pandas" src="./assets/badges/pandas.svg" />
-  <img alt="openpyxl" src="./assets/badges/openpyxl.svg" />
-  <img alt="SQLite" src="./assets/badges/sqlite.svg" />
+  <img alt="Python" src="./assets/badges/python.svg" width="102" height="34" />
+  <img alt="SQL" src="./assets/badges/sql.svg" width="78" height="34" />
+  <img alt="pandas" src="./assets/badges/pandas.svg" width="102" height="34" />
+  <img alt="openpyxl" src="./assets/badges/openpyxl.svg" width="117" height="34" />
+  <img alt="SQLite" src="./assets/badges/sqlite.svg" width="102" height="34" />
 </p>
 
 **Data cleaning** · Data mining · Data processing · Validation · Data quality · Transformation · Record matching · Arabic text normalization · Task automation · RPA · Report generation
@@ -119,11 +119,11 @@ These are **separate tools operated in sequence**, with review and correction be
 ### GIS & supporting tools
 
 <p>
-  <img alt="ArcGIS Pro" src="./assets/badges/arcgis-pro.svg" />
-  <img alt="GIS" src="./assets/badges/gis.svg" />
-  <img alt="Excel" src="./assets/badges/excel.svg" />
-  <img alt="Git" src="./assets/badges/git.svg" />
-  <img alt="GitHub Actions" src="./assets/badges/github-actions.svg" />
+  <img alt="ArcGIS Pro" src="./assets/badges/arcgis-pro.svg" width="133" height="34" />
+  <img alt="GIS" src="./assets/badges/gis.svg" width="78" height="34" />
+  <img alt="Excel" src="./assets/badges/excel.svg" width="94" height="34" />
+  <img alt="Git" src="./assets/badges/git.svg" width="78" height="34" />
+  <img alt="GitHub Actions" src="./assets/badges/github-actions.svg" width="164" height="34" />
 </p>
 
 **KML ↔ Excel workflows** · Git & GitHub · GitHub Actions · Fastlane · Firebase App Distribution · Development/production environments
@@ -145,7 +145,7 @@ I've also used **React and TypeScript**, with AI assistance, to build a supporti
 - **Aviation direction:** studying **Aviation Information Systems**, with a long-term interest in applying software to aviation problems.
 - **Hands-on growth:** continuously improve my understanding through projects, debugging and day-to-day technical responsibilities.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./assets/divider.svg" width="1120" height="14" alt="" />
 
 ## GitHub activity
 
@@ -185,5 +185,5 @@ Interested in **useful applications, data tools, automation, GIS, or aviation-re
 **[Portfolio](https://mustafa-portfolio-eight.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/mustafa-elbaz-725a6631a/)** · **[m9stafa05@gmail.com](mailto:m9stafa05@gmail.com)**
 
 <p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="Understand the problem. Build the solution. Keep improving." />
+  <img src="./assets/footer.svg" width="1120" height="148" alt="Understand the problem. Build the solution. Keep improving." />
 </p>
